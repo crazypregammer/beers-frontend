@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    color: rgb(203, 177, 127);
+    background-color: rgb(96, 74, 14);
+}
+
+* {
+    box-sizing: border-box;
+}
+
+img {
+    height: 50px;
+    width: 50px;
+}
